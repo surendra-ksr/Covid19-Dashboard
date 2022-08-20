@@ -1,0 +1,47 @@
+.headerBg {
+  position: relative;
+  width: 1440px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+  color: #ffffff;
+  background: #1e1e30;
+}
+.logoName {
+  position: absolute;
+  width: 130px;
+  height: 24px;
+  left: 150px;
+  top: 28px;
+  font-family: 'Bree Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+
+  /* Light / blue-gray / 50 */
+
+  color: #f8fafc;
+}
+.logoSpan {
+  color: #3b82f6;
+}
+button {
+  border: 0;
+  background-color: transparent;
+}
+.homeButton {
+  position: absolute;
+  width: 43px;
+  height: 24px;
+  left: 1156px;
+  top: 28px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #f8fafc;
+}
